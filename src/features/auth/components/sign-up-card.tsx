@@ -115,7 +115,7 @@ export const SignUpCard = () => {
             />
 
             <Button disabled={false} size={"lg"} className="w-full">
-              Entrar
+              Cadastrar
             </Button>
           </form>
         </Form>

@@ -3,8 +3,8 @@ import { Input } from "@/components/ui/input";
 
 export default function Home() {
   return (
-    <div className="">
-      <Input />
+    <div className="mx-4 my-4">
+      <Input className="mb-2" />
       <Button size="xs">Primary</Button>
       <Button variant="secondary">Secondary</Button>
       <Button variant="destructive">Destructive</Button>
